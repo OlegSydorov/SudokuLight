@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/bg2_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/bg3_template.xml" value="0.295" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/bg_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/blank_cell.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/button_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/score_template.xml" value="0.295" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select10_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select1_template.xml" value="0.295" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select2_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select3_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select4_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select5_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select6_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select7_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select8_template.xml" value="0.295" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/select9_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/text_view2_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/text_view3_template.xml" value="0.2915" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/text_view4_template.xml" value="0.265" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/drawable-v24/text_view_template.xml" value="0.2275" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/activity_game.xml" value="0.5" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/bg_template.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/blank_cell.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/divider.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/figure_cell.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/fragment_exit_dialogue.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/fragment_name.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/fragment_result_dialogue.xml" value="0.2598958333333333" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/fragment_start.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/fragment_stats.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/item.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/select1_template.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/shadow.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/SudokuLight/app/src/main/res/layout/sound_icon.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

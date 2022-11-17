@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2_template"
+    >
+
+
+        app:layout_constraintGuide_percent="0.8" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/text_view2_template"
+        android:fontFamily="@font/the_bomb"
+        android:gravity="center"
+        android:inputType="text|textMultiLine"
+        android:minLines="2"
+        android:shadowColor="@color/Lime"
+        android:shadowDx="4"
+        android:shadowDy="4"
+        android:shadowRadius="10"
+        android:text="Continue as"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/Green"
+        android:textSize="15sp"
+        android:textStyle="bold"
+       />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="25dp"
+        android:layout_below="@+id/textView"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/text_view2_template"
+        android:fontFamily="@font/the_bomb"
+        android:gravity="center"
+        android:shadowColor="@color/Lime"
+        android:shadowDx="4"
+        android:shadowDy="4"
+        android:shadowRadius="10"
+        android:text="Start anew"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/Green"
+        android:textSize="15sp"
+        android:textStyle="bold"        />
+
+</RelativeLayout>
